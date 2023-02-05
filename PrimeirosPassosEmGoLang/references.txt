@@ -1,0 +1,22 @@
+Go Lang do Zero | Full Cycle - em Português
+https://www.youtube.com/watch?v=_MkQLDMak-4&list=PL5aY_NrL1rjucQqO21QH8KclsLDYu1BIg
+
+
+Aprenda Go - em Português
+https://www.youtube.com/@AprendaGo
+
+
+Go Documentation - em Inglês
+https://go.dev/doc/
+
+
+The Go Playground - em Inglês
+https://go.dev/play/
+
+
+Visual Studio Code Online - em Português
+https://vscode.dev/
+
+
+GOLANG GO! - em Português
+https://golanggo.wordpress.com/tag/scanf/
