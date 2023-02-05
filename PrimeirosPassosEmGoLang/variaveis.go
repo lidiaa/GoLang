@@ -41,7 +41,7 @@ func main() {
 	valor4 := false   //bool - booleano (verdadeiro ou falso)
 	valor5 := `usando o 
 	acento
-	agudo` //string - palavars ou letras
+	grave` //string - palavars ou letras
 
 	//exibindo as variáveis anteriormente criadas
 	fmt.Println("\n\n== Valores: ==")
